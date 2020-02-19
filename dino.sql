@@ -1,0 +1,18 @@
+insert into dino_wild(name, 
+dino_lvl,
+health, 
+stamina, 
+oxygen, 
+food, 
+dmg, 
+movement, 
+torpidity) 
+values ('Ankylosaurus',
+    1,
+    700,
+    175,
+    150,
+    3000,
+    100,
+    100,
+    420);
